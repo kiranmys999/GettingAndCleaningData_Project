@@ -1,0 +1,27 @@
+GettingAndCleaningData_Project
+==============================
+<<<<<<< HEAD
+
+The project contains the following files:
+============================================
+* run_analysis.R  -  this R script contains the code to get data from a directory, clean it, transform it into a desired form, and finally output the tidy data to a file.
+
+* CodeBook.md     -  describes the variables and functions used in the R script, and the transformations performed to get the desired output.
+
+
+Instructions:
+======================
+Copy the run_analysis.R file to your working directory.
+Make sure the working directory contains the input data directory ("UCI HAR Dataset").
+
+Run the script using the following command
+
+source("./run_analysis.R")
+
+
+Output:
+========================
+The output file "finalTidyData.txt" is created in the working directory.
+
+=======
+>>>>>>> 0545c1fcac5a09d07778cd47cd94b61ec66dd9d9
