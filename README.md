@@ -1,6 +1,5 @@
 GettingAndCleaningData_Project
 ==============================
-<<<<<<< HEAD
 
 The project contains the following files:
 ============================================
@@ -23,5 +22,3 @@ Output:
 ========================
 The output file "finalTidyData.txt" is created in the working directory.
 
-=======
->>>>>>> 0545c1fcac5a09d07778cd47cd94b61ec66dd9d9
